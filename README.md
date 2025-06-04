@@ -17,7 +17,7 @@
 # *5. Test ANOVA*
     * Statistique F : 194,62
     * p-valeur : < 0,05
-    ✅ Résultat : H₀ rejetée → au moins une moyenne est significativement différente.
+    ✅ Résultat : H₀ rejetée → au moins une moyenne est significativement différente des autres moyennes.
 # *6. Test post-hoc de Tukey*
     * Comparaisons significatives :
         * Allemagne vs France
